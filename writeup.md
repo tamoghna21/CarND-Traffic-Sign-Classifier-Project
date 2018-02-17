@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/x_train_1000.jpg.jpg "Visualization"
+[image1]: ./examples/x_train_1000.jpg "Visualization"
 [image2]: ./examples/x_train_1000_grayscale.jpg "Grayscaling"
 [image3]: ./examples/x_train_1000_noisy.jpg "Random Noise"
 [image4]: ./traffic_signs_web/sign1.jpg "Traffic Sign 1"
